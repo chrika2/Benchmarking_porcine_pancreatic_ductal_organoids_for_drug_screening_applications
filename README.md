@@ -1,1 +1,1 @@
-This repository contains the code used for the analysis of teh scRNA-Seq and bulk RNASeq presented in the preprint titled: 
+This repository contains the code used for the analysis of the scRNA-Seq and bulk RNASeq presented in the preprint titled: "Benchmarking porcine pancreatic ductal organoids for drug screening applications"
